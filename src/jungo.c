@@ -25,8 +25,7 @@ in the buffer.
 int main()
 {
     int i, randNum;
-  int  ab[15];
-  //  AverageBuffer *ab = allocAverageBuffer(100);
+    int ab[100];
 
     srand(time(NULL));
 
